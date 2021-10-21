@@ -17,7 +17,7 @@ To file an issue with our team, email [fx-support@mintegral.com](mailto:fx-suppo
 The current version of the SDK is 1.0.0
 
 ## UnityPlugin
-- **[FXSDK FXSDK.unitypackage](https://fx-support.gitbook.io/mtg-fx/)**
+- **[FXSDK FXSDK.unitypackage](https://github.com/MTGfxplatform/FXSDK-UnityPlugin/releases/download/v1.0.0/FXSDK.unitypackage)**
 
 
 ## Requirements
